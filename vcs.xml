@@ -1,4 +1,14 @@
 <application>
+  <component name="GitRememberedInputs">
+    <option name="visitedUrls">
+      <list>
+        <UrlAndUserName>
+          <option name="url" value="http://git.dev.lightwit.cn" />
+          <option name="userName" value="wlf18726994755@163.com" />
+        </UrlAndUserName>
+      </list>
+    </option>
+  </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ORDER">
       <list>
