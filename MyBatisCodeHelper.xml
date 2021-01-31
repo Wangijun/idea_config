@@ -2,6 +2,7 @@
   <component name="MyBatisCodeHelper">
     <option name="profile">
       <Profile>
+        <option name="usejava8LocalDateTimeEct" value="true" />
         <option name="userMacSet">
           <set>
             <option value="0025_3888_91" />
