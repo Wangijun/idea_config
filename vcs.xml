@@ -13,6 +13,10 @@
           <option name="url" value="git@git.zhlh6.cn:NoCortY/WebSSH.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@gitee.com:click33/sa-plus.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\wan\java" />
