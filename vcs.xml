@@ -25,6 +25,10 @@
           <option name="url" value="git@github.com:spring-projects/spring-framework.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git.jcloudsoft.com" />
+          <option name="userName" value="wangliangfang" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\wan\java" />
